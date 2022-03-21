@@ -1,0 +1,20 @@
+{
+    "name": "nicol/td-php",
+    "autoload": {
+        "files": [
+            "src/functions.php",
+            "src/utils.php"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/process": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Wadaarik",
+            "email": "nicolasboudier12@gmail.com"
+        }
+    ]
+}
